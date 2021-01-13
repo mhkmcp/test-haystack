@@ -1,0 +1,14 @@
+asgiref==3.3.1
+certifi==2020.12.5
+Django==3.1.5
+django-haystack==3.0
+djangorestframework==3.12.2
+drf-haystack==1.8.9
+elasticsearch==5.0.0
+pyelasticsearch==1.4.1
+python-dateutil==2.8.1
+pytz==2020.5
+simplejson==3.17.2
+six==1.15.0
+sqlparse==0.4.1
+urllib3==1.26.2
