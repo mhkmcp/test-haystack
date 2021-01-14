@@ -1,4 +1,4 @@
-#!/Users/macboookpro/django-work/test_index/venv/bin/python
+#!/Users/macboookpro/django-work/test_index/test-haystack/venv/bin/python3.7
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 

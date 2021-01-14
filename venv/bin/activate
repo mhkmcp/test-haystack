@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/macboookpro/django-work/test_index/venv"
+VIRTUAL_ENV="/Users/macboookpro/django-work/test_index/test-haystack/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
