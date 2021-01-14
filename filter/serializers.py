@@ -4,10 +4,6 @@ from .models import Filter
 
 
 class FilterListSerializer(serializers.ModelSerializer):
-    # offer_delivery_option = serializers.StringRelatedField()
-    # status = serializers.StringRelatedField(many=False)
-    # total_price = serializers.IntegerField(source='get_total_price')
-    # price = serializers.IntegerField()
     is_dhaka = serializers.BooleanField()
     is_khulna = serializers.BooleanField()
     is_male = serializers.BooleanField()
